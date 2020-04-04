@@ -2,13 +2,13 @@
 *In this project, a servo motor is controlled from a Thingspeak channel using NodeMCU*
 
 ## Components
-NodeMCU x 1
-Servo motor x 1
+- NodeMCU x 1
+- Servo motor x 1
 
 ## Libraries required
-Thingspeak.h
-ESP8266WiFi.h
-Servo.h
+- Thingspeak.h
+- ESP8266WiFi.h
+- Servo.h
 
 ## Description
 
